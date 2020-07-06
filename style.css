@@ -3,6 +3,7 @@
 }
 .slide-bg{
     background-color: #FEEAE9;
+    border-radius: 10px;
 }
 .carousel-item{
     padding: 20px 40px;
@@ -17,4 +18,18 @@
     border-radius: 8px;
     padding: 5px 15px;
     cursor: pointer;
+}
+.cat-1,.cat-2,.cat-3{
+    color: white;
+    margin-top: 10px;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat-1{
+    background-image: linear-gradient(90deg, #e77a14,#ffc500);
+}.cat-2{
+    background-image: linear-gradient(90deg, #ff136f, #b90e6c);
+}
+.cat-3{
+    background-image: linear-gradient(90deg, #1488CC,#2B32B2);
 }
