@@ -33,3 +33,25 @@
 .cat-3{
     background-image: linear-gradient(90deg, #1488CC,#2B32B2);
 }
+.card-button{
+    color: white;
+    background-image: linear-gradient(180deg, #ff136f, #ff589b);
+    border: none;
+    border-radius: 8px;
+    padding: 4px 8px;
+    cursor: pointer;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#Subscribe{
+    height: 300px;
+}
+.mail-section{
+    align-items: center;
+}
